@@ -1,0 +1,21 @@
+/* admin.css */
+body {
+   background-image: url("music.logo.jpg");
+    color: rgb(128, 0, 0); /* Golden text color for contrast */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    background-color: #62856d; /* Greenish background for links */
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
